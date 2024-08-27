@@ -173,9 +173,3 @@ Based on the testing performance, the Weighted Random Forest Classifier appears 
 Additional Considerations:
 
 Interpretability: If interpretability is important, the Decision Tree Estimator might be a good choice, as it's easier to understand its decision-making process.
-Computational Cost: Consider the computational cost of each model, especially if you need to deploy the model in a resource-constrained environment.
-Recommendations:
-
-Cross-validation: To get a more reliable estimate of the model's performance, use cross-validation to evaluate the models on multiple training-testing splits.
-Hyperparameter tuning: Experiment with different hyperparameter values for each model to potentially improve performance.
-Feature engineering: Consider creating new features or transforming existing ones to improve model performance.
